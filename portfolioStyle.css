@@ -1,3 +1,13 @@
 body {
     background: lightpink;
 }
+#Like{
+    font-size: 4rem;
+    color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#School{
+    font-size:4rem;
+    color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
