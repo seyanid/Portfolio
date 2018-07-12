@@ -2,12 +2,20 @@ body {
     background: lightpink;
 }
 #Like{
-    font-size: 4rem;
+    font-size: 1rem;
     color: lightslategray;
     font-family: Arial, Helvetica, sans-serif;
 }
 #School{
-    font-size:4rem;
+    font-size:3rem;
     color: lightslategray;
     font-family: Arial, Helvetica, sans-serif;
+}
+#Picture{
+    width: 30ch;
+    padding: 5em;
+    float: right;
+}
+#Anything{
+    float: left;
 }
