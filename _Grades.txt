@@ -1,0 +1,30 @@
+Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
+
+Grade: 90
+
+Comment: You did create two ID selectors, but the assignment was to style the two paragraphs differently, so you lost a few points for that.
+
+########
+
+Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
+
+Grade: 100
+
+Comment: Good job on this
+
+########
+
+Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade:  100
+
+Comment: Great start, just a few very minor things I noted as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
+
+
+########
+
+Assignment: Use Google Forms to add a contact form to your page.
+
+Grade: 100
+
+Comment:  You got this in early, good job.
