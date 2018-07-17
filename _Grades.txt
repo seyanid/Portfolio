@@ -25,6 +25,6 @@ Comment: Great start, just a few very minor things I noted as TODO items in your
 
 Assignment: Use Google Forms to add a contact form to your page.
 
-Grade: 100
+Grade: 105
 
 Comment:  You got this in early, good job.
