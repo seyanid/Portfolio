@@ -2,20 +2,58 @@ body {
     background: royalblue;
 }
 #Like{
-    font-size: 1rem;
+    font-size: 1.5rem;
     color:white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Merienda', cursive;    
 }
 #School{
-    font-size:1rem;
+    font-size:1.5rem;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Merienda', cursive;
+    
+}
+div{
+    float: 
+    font size:20px;
+    color:pink;
+    text-align: left;
+        width:20%;
+            padding:10px;
+            border-style: solid;
+            border-color: black;
+            border-width: 10px;
+            margin: 3em
 }
 #Picture{
     width: 30ch;
     padding: 1em;
     float: right;
+    animation-name: animate;
+    animation-duration: 3s;
 }
 #Anything{
     float: left;
 }
+p{
+    font-family: 'Cookie', cursive;
+}
+h1{
+    font-family: 'Lobster', cursive; 
+}   
+
+@keyframes animate{
+    0% {
+        transform: scale(0.1);
+        opacity: 0;
+    }
+    60% {
+        transform: scale(1.5);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1);
+    }
+    
+}
+
+
