@@ -1,31 +1,25 @@
 body {
     background: royalblue;
 }
-#Like{
-    font-size: 1.5rem;
+.Like{
+    font-size: 1.25rem;
     color:white;
     font-family: 'Merienda', cursive;    
 }
-#School{
-    font-size:1.5rem;
-    color: white;
-    font-family: 'Merienda', cursive;
-    
-}
-div{
-    float: 
-    font size:20px;
-    color:pink;
+
+div{ 
+    font size:10px;
+    color: black;
     text-align: left;
-        width:20%;
-            padding:10px;
+        width:50%;
+            padding:20px;
             border-style: solid;
-            border-color: black;
-            border-width: 10px;
-            margin: 3em
+            border-color: lightblue;
+            border-width: 15px;
+            margin: 5em
 }
 #Picture{
-    width: 30ch;
+    width: 45ch;
     padding: 1em;
     float: right;
     animation-name: animate;
@@ -38,7 +32,7 @@ p{
     font-family: 'Cookie', cursive;
 }
 h1{
-    font-family: 'Lobster', cursive; 
+    font-family: 'Playfair Display SC', serif; 
 }   
 
 @keyframes animate{
