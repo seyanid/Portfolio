@@ -8,7 +8,7 @@ body {
 }
 
 div{ 
-    font size:10px;
+    font-size: 10px;
     color: black;
     text-align: left;
         width:50%;
@@ -16,8 +16,9 @@ div{
             border-style: solid;
             border-color: lightblue;
             border-width: 15px;
-            margin: 5em
+            margin: 5em;
 }
+
 #Picture{
     width: 45ch;
     padding: 1em;
