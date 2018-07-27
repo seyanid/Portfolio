@@ -1,0 +1,33 @@
+Portfolio final grade: 95
+
+Comments:  You met the requirements and really put in the effort to make the site responsive.  Good job, but try to stretch yourself more!
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 91
+(50% of overall grade)
+
+Points deducted for these items:
+    -6 Google fonts and mobile css not linked on all pages.
+    -2 Mis-matched fonts in CSS (unused fonts linked, unlinked fonts references)
+    -1 Invalid characters in the img tag
+
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 98
+(25% of overall grade)
+
+Points deducted for these items:
+    -2 for just copying the animation from the slides and not adding anything to it.

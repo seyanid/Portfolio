@@ -1,42 +1,46 @@
 body {
     background: royalblue;
 }
-.Like{
+
+.Like {
     font-size: 1.25rem;
-    color:white;
-    font-family: 'Merienda', cursive;    
+    color: white;
+    font-family: 'Merienda', cursive;
 }
 
-div{ 
+div {
     font-size: 10px;
     color: black;
     text-align: left;
-        width:50%;
-            padding:20px;
-            border-style: solid;
-            border-color: lightblue;
-            border-width: 15px;
-            margin: 5em;
+    width: 50%;
+    padding: 20px;
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 15px;
+    margin: 5em;
 }
 
-#Picture{
+#Picture {
     width: 45ch;
     padding: 1em;
     float: right;
     animation-name: animate;
     animation-duration: 3s;
 }
-#Anything{
+
+#Anything {
     float: left;
 }
-p{
+
+p {
     font-family: 'Cookie', cursive;
 }
-h1{
-    font-family: 'Playfair Display SC', serif; 
-}   
 
-@keyframes animate{
+h1 {
+    font-family: 'Playfair Display SC', serif;
+}
+
+@keyframes animate {
     0% {
         transform: scale(0.1);
         opacity: 0;
@@ -48,5 +52,4 @@ h1{
     100% {
         transform: scale(1);
     }
-    
 }
