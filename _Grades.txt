@@ -1,4 +1,4 @@
-Portfolio final grade: 95
+Portfolio final grade: 98
 
 Comments:  You met the requirements and really put in the effort to make the site responsive.  Good job, but try to stretch yourself more!
 
@@ -26,8 +26,11 @@ Grade: 100
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 98
+Grade: 108
 (25% of overall grade)
 
 Points deducted for these items:
     -2 for just copying the animation from the slides and not adding anything to it.
+
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
